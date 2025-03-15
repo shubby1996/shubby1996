@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @ShubhamGupta<br>👀 I’m interested in Data Science, Machine Learning & Computer Vision. I love to create digital aaplications.<br>🌱 I’m currently working on Time Series Data and playing around with Generative AI Ideas.<br>💞️ I’m looking to collaborate on any project either open source or private<br>📫 Reach me via mail@g.shubham1@outlook.com<br>🌎 Check out my ![link](https://meinfo-pi.vercel.app/)
-👋 Hi, I’m @ShubhamGupta<br>👀 I’m interested in Data Science, Machine Learning & Computer Vision. I love to create digital aaplications.<br>🌱 I’m currently working on Time Series Data and playing around with Generative AI Ideas.<br>💞️ I’m looking to collaborate on any project either open source or private<br>📫 Reach me via mail@g.shubham1@outlook.com<br>🌎 Check out my [Link](https://meinfo-pi.vercel.app/)
+👋 Hi, I’m @ShubhamGupta<br>👀 I’m interested in Data Science, Machine Learning & Computer Vision. I love to create digital aaplications.<br>🌱 I’m currently working on Time Series Data and playing around with Generative AI Ideas.<br>💞️ I’m looking to collaborate on any project either open source or private<br>📫 Reach me via mail@g.shubham1@outlook.com<br>🌎 Check out my Website [Link](https://meinfo-pi.vercel.app/)
 
 
 ## 🌐 Socials:
